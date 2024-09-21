@@ -1,2 +1,6 @@
 streamlit
 langchain_ollama
+langchain_google_genai
+langchain_core
+langchain
+base64
