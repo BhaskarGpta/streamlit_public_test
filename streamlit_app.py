@@ -8,7 +8,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.memory import ConversationBufferMemory
 
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAOatyNMmsNp0RzBm-9RjgdPHjf6MWjRuk"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyBeU4yoxi3rAydeZqbqsrMaYbDepUB6O6I"
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-pro",
